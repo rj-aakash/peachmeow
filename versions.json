@@ -1,4 +1,10 @@
 {
+  "MorpheApp/morphe-patches": {
+    "latest": {
+      "patch": "1.22.0",
+      "cli": "1.6.3"
+    }
+  },
   "RookieEnough/De-ReVanced": {
     "latest": {
       "patch": "1.0.1",
