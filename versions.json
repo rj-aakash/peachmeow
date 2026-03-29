@@ -3,6 +3,10 @@
     "latest": {
       "patch": "1.22.0",
       "cli": "1.6.3"
+    },
+    "dev": {
+      "patch": "1.23.0-dev.1",
+      "cli": "1.6.3"
     }
   },
   "RookieEnough/De-ReVanced": {
