@@ -10,5 +10,11 @@
       "patch": "1.16.0",
       "cli": "1.6.3"
     }
+  },
+  "anddea/revanced-patches": {
+    "latest": {
+      "patch": "4.0.0",
+      "cli": "1.6.3"
+    }
   }
 }
