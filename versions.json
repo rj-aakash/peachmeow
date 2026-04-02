@@ -5,8 +5,8 @@
       "cli": "1.6.3"
     },
     "dev": {
-      "patch": "1.23.0-dev.2",
-      "cli": "1.6.3"
+      "patch": "1.23.0-dev.3",
+      "cli": "1.6.4-dev.2"
     }
   },
   "RookieEnough/De-ReVanced": {
